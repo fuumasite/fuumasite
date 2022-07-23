@@ -3,6 +3,10 @@
 I Am Binggi Rashel Prasetyo,  <i>i'm still learn</i>
 </h5>
 
+<a href="https://www.instagram.com/binggierashel/">
+  <img align="left" alt="Binggie Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+
 <div class="github">
 <img width="500" height="500" src="https://user-images.githubusercontent.com/104876866/180589549-c2721232-9ecc-418f-a3be-8552927039af.gif" />
 </div>
@@ -27,3 +31,4 @@ I Am Binggi Rashel Prasetyo,  <i>i'm still learn</i>
 [![Nginx](https://img.shields.io/badge/Nginx-%23222?style=flat-square&logoColor=%23009639&logo=nginx)](https://www.nginx.com/)
 [![Apache](https://img.shields.io/badge/Apache-%23557697?style=flat-square&logoColor=%23d12127&logo=apache)](https://httpd.apache.org/)
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fuumasite&show_icons=true&theme=gotham" alt="abhisheknaiidu" />d
