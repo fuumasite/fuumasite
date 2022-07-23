@@ -1,5 +1,7 @@
-# Hayy :wave:
+# Hayy 😺😺
 I Am Binggi Rashel Prasetyo, i'm still learn
+
+![github](https://user-images.githubusercontent.com/104876866/180589549-c2721232-9ecc-418f-a3be-8552927039af.gif)
 
 #### :sunglasses: Familiar Tech
 
