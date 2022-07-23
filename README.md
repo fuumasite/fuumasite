@@ -1,7 +1,12 @@
 # Hayy 😺😺
-I Am Binggi Rashel Prasetyo, i'm still learn
+<h5>
+I Am Binggi Rashel Prasetyo,  <i>i'm still learn</i>
+</h5>
 
-![github](https://user-images.githubusercontent.com/104876866/180589549-c2721232-9ecc-418f-a3be-8552927039af.gif)
+<div class="github">
+<img width="500" height="500" src="https://user-images.githubusercontent.com/104876866/180589549-c2721232-9ecc-418f-a3be-8552927039af.gif" />
+</div>
+
 
 #### :sunglasses: Familiar Tech
 
