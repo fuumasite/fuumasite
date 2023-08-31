@@ -7,10 +7,6 @@ I Am Binggi Rashel Prasetyo,  <i>i'm still learn</i>
   <img align="left" alt="Binggie Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-<div class="github">
-<img width="500" height="500" src="https://user-images.githubusercontent.com/104876866/180589549-c2721232-9ecc-418f-a3be-8552927039af.gif" />
-</div>
-
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
