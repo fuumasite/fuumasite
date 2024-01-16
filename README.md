@@ -7,7 +7,7 @@ Hello! I'm `binggie`, a passionate fullstack developer based in indonesia. With 
 Outside of the professional realm, you'll often find me Playing Guitar and Volleyball. believe in maintaining a balance between work and play. These activities not only rejuvenate me but also contribute to my creativity and problem-solving skills
 
 ### Connect with me : <img src="giphy-cat.gif" width="50"> 
-<a href="https://instagram/binggiershl" >
+<a href="https://www.tiktok.com/@binggiemusic" >
 <img src="instagram.png" width="50"> 
 </a>
 <a href="https://instagram/binggiershl" >
