@@ -1,3 +1,9 @@
+<style>
+ a {
+  text-decoration: none;
+ }
+</style>
+
 # Hi there, I'm Binggie Rashel Prasetyo 👋 
 
 <img src="profile.jpg" align="right" width="200px" />
