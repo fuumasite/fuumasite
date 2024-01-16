@@ -1,4 +1,4 @@
-# Hi there, I'm Binggie Rashel PRasetyo 👋 
+# Hi there, I'm Binggie Rashel Prasetyo 👋 
 
 
 
@@ -13,10 +13,9 @@
 
 ### Connect with me:
 
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail,instagram,discord" />
-  </a>
-
+[![GitHub](icons/github.png)](https://github.com/fuumasite.github.io)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/binggiershl/)
+[![gmail](icons/gmail.png)](binggierashel@gmail.com)
 
 ### Languages and Tools:
 
