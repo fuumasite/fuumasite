@@ -7,11 +7,9 @@ Hello! I'm `binggie`, a passionate fullstack developer based in indonesia. With 
 Outside of the professional realm, you'll often find me Playing Guitar and Volleyball. believe in maintaining a balance between work and play. These activities not only rejuvenate me but also contribute to my creativity and problem-solving skills
 
 ### Connect with me:
-
-[![GitHub](discord.png)](https://github.com/fuumasite.github.io)
-[![Instagram](instagram.png)](https://www.instagram.com/binggiershl/)
-[![gmail](gmail.png)](binggierashel@gmail.com)
-
+  <a href="https://instagram.com/binggiershl">
+    <img src="![instagram](https://github.com/fuumasite/fuumasite/assets/104876866/4131c0ad-ce25-407b-a442-5f40c1677b85)" width="50" />
+  </a>
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Languages and Tools:
 
