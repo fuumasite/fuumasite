@@ -53,34 +53,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [The Headless CMS You Don’t Know About](https://www.youtube.com/watch?v=43Eznupydng)
-- [I Cannot Believe How Good This VS Code AI Coding Assistant Is!](https://www.youtube.com/watch?v=TALwI3J4asY)
-- [Eddie Jaoude Explains &amp; Talks about MDX Documentation](https://www.youtube.com/watch?v=ZTX9-_MyaIw)
-- [React&#39;s Future: Tejas Kumar on Server Components](https://www.youtube.com/watch?v=zn-nFWDxyiw)
-- [Collaboration is HARD! You Need this Web Development Workflow](https://www.youtube.com/watch?v=DZV33RjeXW0)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Next.js 14: No New APIs &amp; Breaking Changes](https://dev.to/mongodb/nextjs-14-no-new-apis-breaking-changes-3nh3)
-- [Render ATL 2023 Trip Report](https://dev.to/codestackr/render-atl-2023-trip-report-mp4)
-- [Web Development Roadmap 2023](https://dev.to/codestackr/web-development-roadmap-2023-5beo)
-- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
-
----
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
