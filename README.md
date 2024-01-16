@@ -1,10 +1,10 @@
 # Hi there, I'm Binggie Rashel Prasetyo 👋 
 
-<img src="images/profile.jpg" align="right" />
+<img src="profile.jpg" align="right" />
 
-I'm Hussain Abbas and I go by `hussainweb` online in most places. I have built, and more importantly, helped others build computer programs over the past two decades.
+Hello! I'm `binggie`, a passionate fullstack developer based in indonesia. With a background in Computer Engineering, I bring a wealth of knowledge and enthusiasm to my work.
 
-I work at [Axelerant](https://axelerant.com) and contribute to open source software (mostly Drupal) as part of my work and out of my own interest. I have a [longer README](https://hussainweb.github.io/README/) if you are interested in more about me.
+Outside of the professional realm, you'll often find me Playing Guitar and Volleyball. believe in maintaining a balance between work and play. These activities not only rejuvenate me but also contribute to my creativity and problem-solving skills
 
 ## I'm a Student, Developer, and Musician!!
 
