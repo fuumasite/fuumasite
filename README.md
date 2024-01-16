@@ -8,7 +8,7 @@ Outside of the professional realm, you'll often find me Playing Guitar and Volle
 
 ### Connect with me:
 
-    <img src="![instagram](https://github.com/fuumasite/fuumasite/assets/104876866/4131c0ad-ce25-407b-a442-5f40c1677b85)" width="50" />
+ <img src="![instagram](https://github.com/fuumasite/fuumasite/assets/104876866/4131c0ad-ce25-407b-a442-5f40c1677b85)" width="50" />
   <a href="https://instagram.com/binggiershl">
   </a>
 
