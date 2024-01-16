@@ -13,11 +13,15 @@
 
 ### Connect with me:
 
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail,instagram,discord" />
+  </a>
+
 
 ### Languages and Tools:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,tailwind,sass,react,nextjs,git,php,mysql,laravel,codeigniter,linux" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,tailwind,sass,react,nextjs,git,php,mysql,laravel,linux" />
   </a>
 
 
