@@ -11,7 +11,7 @@ Outside of the professional realm, you'll often find me Playing Guitar and Volle
 <img src="instagram.png" width="50"> 
 </a>
 <a href="https://instagram/binggiershl" >
-<img src="tiktok.png" width="50"> 
+<img src="tiktok-white.png" width="50"> 
 </a>
 <a href="https://instagram/binggiershl" >
 <img src="discord.png" width="50"> 
