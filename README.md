@@ -12,6 +12,7 @@ Outside of the professional realm, you'll often find me Playing Guitar and Volle
 [![Instagram](icons/instagram.png)](https://www.instagram.com/binggiershl/)
 [![gmail](icons/gmail.png)](binggierashel@gmail.com)
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ### Languages and Tools:
 
   <a href="https://skillicons.dev">
