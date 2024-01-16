@@ -1,6 +1,6 @@
 # Hi there, I'm Binggie Rashel Prasetyo 👋 
 
-<img src="profile.jpg" align="right" />
+<img src="profile.jpg" align="right" width="200px" />
 
 Hello! I'm `binggie`, a passionate fullstack developer based in indonesia. With a background in Computer Engineering, I bring a wealth of knowledge and enthusiasm to my work.
 
