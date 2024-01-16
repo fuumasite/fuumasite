@@ -1,6 +1,6 @@
 # Hi there, I'm Binggie Rashel Prasetyo 👋 
 
-<img src="images/me.jpg" align="right" />
+<img src="images/profile.jpg" align="right" />
 
 I'm Hussain Abbas and I go by `hussainweb` online in most places. I have built, and more importantly, helped others build computer programs over the past two decades.
 
