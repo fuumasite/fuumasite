@@ -16,11 +16,10 @@
 
 ### Languages and Tools:
 
-<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,tailwind,sass,react,nextjs,git,php,mysql,linux" />
   </a>
-</p>
+
 
 
 <br />
