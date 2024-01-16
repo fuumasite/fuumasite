@@ -8,9 +8,9 @@ Outside of the professional realm, you'll often find me Playing Guitar and Volle
 
 ### Connect with me:
 
-[![GitHub](icons/github.png)](https://github.com/fuumasite.github.io)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/binggiershl/)
-[![gmail](icons/gmail.png)](binggierashel@gmail.com)
+[![GitHub](discord.png)](https://github.com/fuumasite.github.io)
+[![Instagram](instagram.png)](https://www.instagram.com/binggiershl/)
+[![gmail](gmail.png)](binggierashel@gmail.com)
 
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Languages and Tools:
