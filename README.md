@@ -17,7 +17,7 @@
 ### Languages and Tools:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,tailwind,sass,react,nextjs,git,php,mysql,linux" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,tailwind,sass,react,nextjs,git,php,mysql,laravel,codeigniter,linux" />
   </a>
 
 
