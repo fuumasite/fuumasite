@@ -6,15 +6,6 @@ Hello! I'm `binggie`, a passionate fullstack developer based in indonesia. With 
 
 Outside of the professional realm, you'll often find me Playing Guitar and Volleyball. believe in maintaining a balance between work and play. These activities not only rejuvenate me but also contribute to my creativity and problem-solving skills
 
-## I'm a Student, Developer, and Musician!!
-
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
-
 ### Connect with me:
 
 [![GitHub](icons/github.png)](https://github.com/fuumasite.github.io)
