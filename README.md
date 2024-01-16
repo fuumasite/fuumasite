@@ -10,8 +10,13 @@ Outside of the professional realm, you'll often find me Playing Guitar and Volle
 <a href="https://instagram/binggiershl" >
 <img src="instagram.png" width="50"> 
 </a>
+<a href="https://instagram/binggiershl" >
+<img src="tiktok.png" width="50"> 
+</a>
+<a href="https://instagram/binggiershl" >
+<img src="discord.png" width="50"> 
+</a>
 
- 
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Languages and Tools:
 
